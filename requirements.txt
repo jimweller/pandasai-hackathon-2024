@@ -1,0 +1,7 @@
+chainlit
+pandasai
+pandasai[connectors]
+pandasai[llm]
+pandasai[ee]
+boto3
+pyyaml
